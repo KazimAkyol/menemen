@@ -4,3 +4,4 @@ biber
 yumurta
 tereyagi
 konuldu
+kasar ekle
