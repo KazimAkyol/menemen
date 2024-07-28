@@ -5,3 +5,4 @@ yumurta
 tereyagi
 konuldu
 kasar ekle
+biraz daha kasar ekle
