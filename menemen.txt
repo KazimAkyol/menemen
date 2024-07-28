@@ -3,3 +3,4 @@ sogan
 biber
 yumurta
 tereyagi
+konuldu
